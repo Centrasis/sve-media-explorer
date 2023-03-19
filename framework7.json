@@ -1,0 +1,19 @@
+{
+  "cwd": ".",
+  "type": [
+    "pwa"
+  ],
+  "name": "sve-online",
+  "framework": "vue",
+  "template": "single-view",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#008c0e",
+    "darkTheme": true,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
